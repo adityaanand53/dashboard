@@ -15,6 +15,7 @@ Papa.parsePromise = function (file) {
     });
   });
 };
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
