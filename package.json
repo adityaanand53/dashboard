@@ -21,7 +21,7 @@
     "@angular/router": "~8.1.0",
     "@tensorflow/tfjs": "^1.2.9",
     "@tensorflow/tfjs-vis": "^1.1.0",
-    "papaparse": "^5.1.0",
+    "papaparse": "^5.2.0",
     "plotly.js-dist": "^1.49.5",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
